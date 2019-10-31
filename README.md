@@ -5,7 +5,10 @@ Typeahead control for Blazor applications.
 
 ![Nuget](https://img.shields.io/nuget/v/blazored.typeahead.svg)
 
-![Screenshot](screenshot.png)
+![Screenshot](BlazoredTypeahead1.gif)
+![Screenshot](BlazoredTypeahead2.gif)
+![Screenshot](BlazoredTypeahead3.gif)
+![Screenshot](BlazoredTypeahead4.gif)
 
 ### Installing
 
@@ -35,7 +38,7 @@ Then add the JS script at the bottom of the page using the following script tag.
 I would also suggest adding the following using statement to your main `_Imports.razor` to make referencing the component a bit easier.
 
 ```cs
-@using Blazored.Typeahead.Forms
+@using Blazored.Typeahead
 ```
 
 ## Usage
